@@ -17,8 +17,8 @@ Make sure to create a `.env` file with appropriate configurations.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/AAbbhishekk/audio-rag-langchain.git
+cd audio-rag-langchain
 ```
 
 2. Install dependencies:
